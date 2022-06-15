@@ -1,4 +1,4 @@
-### Hi there <img src="https://media0.giphy.com/media/24b51fa2ynrePgetPA/source.gif" width="30px" alt="waving hand"/>, I am Ben Bauer!
+### Hi there, I am Ben Bauer!
 
 ---
 
