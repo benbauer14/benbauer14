@@ -2,7 +2,7 @@
 
 ---
 
-I am a Full Stack Software Engineer with experience in Javascript, Python and Visual Basic. I am excited to use technology to improve workflow and efficency while discovering new solutions to problems.
+I am a Full Stack Software Engineer with experience in Javascript, Python, Spring, and Java utilizing cloud services such as AWS, Twilio, Sendgrid, Mailgun and others.  I am excited to use technology to improve workflow and efficency while discovering new solutions to problems.
 
 ---
 
